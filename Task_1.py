@@ -89,14 +89,14 @@
 # duration = 400153
 # 4 дн 15 час 9 мин 13 сек
 
-duration = int(input('Введите число:  '))
-sec = duration % 60
-m = duration//60
-min= m % 60
-h = m //60
-hour = h % 24
-d = h //24
-print(d, 'дн.', hour, 'часов', min, 'минут', sec, 'секунд')
+# duration = int(input('Введите число:  '))
+# sec = duration % 60
+# m = duration//60
+# min= m % 60
+# h = m //60
+# hour = h % 24
+# d = h //24
+# print(d, 'дн.', hour, 'часов', min, 'минут', sec, 'секунд')
 
 
 
