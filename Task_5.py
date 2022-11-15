@@ -17,7 +17,7 @@
 
 
 with open('file.text', 'w', encoding='UTF-8') as file:
-    file.write('wwwwwwwwwwwwwwwwddrrrrrrrrrrrrrrrffftsssssssssssssss')
+    file.write('wwwwwwwwwwwwwwwwddrrrrrrrrrrrrrrrffftssssssssssssssswww')
 with open('file.text', 'r', encoding='UTF-8') as file:
     my_txt = file.readline()
     txt_compr = my_txt.split()
